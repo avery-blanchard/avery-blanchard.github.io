@@ -14,7 +14,7 @@ Containers are pervasive within computing infrastructure due to their agility an
 
 ## Encrypted TAO
 ### Columbia University COMSE6998
-A privacy preserving graph data store. Implemented Order Preserving Encryption OPE in Rust. Encrypted queries using OPE and symmetric encryption. \
+A privacy preserving graph data store. The project ported Order Preserving Encryption OPE to Rust to provide range queries over encrypted data. Queries were encrypted using OPE and symmetric encryption. 
 Open source [repository](https://github.com/encrypted-tao/encrypted-tao) 
 
 ## Digital Cooking **advised by Professor Hod Lipson**

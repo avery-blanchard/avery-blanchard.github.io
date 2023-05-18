@@ -1,5 +1,5 @@
 +++
-title = "Avery Blanchard"
+title = ""
 description = ""
 date = "2023-05-18"
 author = "Avery Blanchard"

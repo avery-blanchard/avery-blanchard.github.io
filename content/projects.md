@@ -14,7 +14,7 @@ With the ubiquity of container-based virtualization, the ability to ensure trust
 
 ## Encrypted TAO
 ### Columbia University COMSE6998
-A privacy preserving version of Facebook's graph data store TAO. Implemented Order Preserving Encryption OPE in Rust. Encrypted queries using OPE and symmetric encryption. Used caching to negate the complexity added by the encryption to provide efficient and secure stoage and querying of graph data. \
+A privacy preserving graph data store. Implemented Order Preserving Encryption OPE in Rust. Encrypted queries using OPE and symmetric encryption. \
 Open source [repository](https://github.com/encrypted-tao/encrypted-tao) 
 
 ## Digital Cooking **advised by Professor Hod Lipson**
@@ -23,4 +23,4 @@ The goal of the Digital Cooking Team at the Creative Machines Lab is to design a
 
 ## Robotic Grasping System 
 ### Columbia University COMSW4733
-A project focusing on deep learning, semantic parsing, ICP and RRT algorithms to build a self-improving robotic grasping system. Image segmentation is used for object detection, the ICP algorithm is used to estimate object pose, and path planning is done using the RRT algorithm
+A project focusing on deep learning, semantic parsing, ICP and RRT algorithms to build a self-improving robotic grasping system. Image segmentation is used for object detection, the ICP algorithm is used to estimate object pose, and path planning is done using the RRT algorithm.

@@ -20,6 +20,9 @@ Developed container integrity measurement project since Fall 2022. \
 Design and implementation of software for a 3D printer since Fall 2021. 
 
 ## Industry Experience
+**IBM Research** \
+*Research Intern* \
+May 2023 - Present \
 **Red Hat** \
 *Software Engineering Intern*  \
 May 2022 - April 2023

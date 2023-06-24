@@ -11,11 +11,12 @@ redirect_from:
 ## Container IMA using eBPF **advised by Professor Jason Nieh** 
 ### Columbia University + Red Hat
 Containers are pervasive within computing infrastructure due to their agility and scalability. These isolated groups of processes exist through operating-systems level virtualization, and due to the shared nature of the operating system's kernel, security is a pertinent consideration for container development. The ability to measure and monitor the integrity of containers running on the system fills a gap in observability, trust, and security. However, the mechanism in the Linux kernel for measuring integrity within a system, Integrity Measurement Architecture IMA, does not support Linux containers. This project leverages the kernel's existing support of eBPF to extend the Linux Integrity Measurement Architecture to containers without changes to the host operating system. 
+[Project github](https://github.com/avery-blanchard/container-ima)
 
 ## Encrypted TAO
 ### Columbia University COMSE6998
 A privacy preserving graph data store. The project ported Order Preserving Encryption OPE to Rust to provide range queries over encrypted data. Queries were encrypted using OPE and symmetric encryption. 
-Open source [repository](https://github.com/encrypted-tao/encrypted-tao) 
+[Project github](https://github.com/encrypted-tao/encrypted-tao)
 
 ## Digital Cooking **advised by Professor Hod Lipson**
 ### Columbia University's Creative Machines Lab

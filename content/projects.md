@@ -10,7 +10,7 @@ redirect_from:
 
 ## Container IMA using eBPF **advised by Professor Jason Nieh** 
 ### Columbia University
-Containers are pervasive within computing infrastructure due to their agility and scalability. These isolated groups of processes exist through operating-systems level virtualization, and due to the shared nature of the operating system's kernel, security is a pertinent consideration for container development. The ability to measure and monitor the integrity of containers running on the system fills a gap in observability, trust, and security. However, the mechanism in the Linux kernel for measuring integrity within a system, Integrity Measurement Architecture IMA, does not support Linux containers. This project leverages the kernel's existing support of eBPF to extend the Linux Integrity Measurement Architecture to containers without changes to the host operating system. \
+ The ability to measure and monitor the integrity of containers running on the system fills a gap in observability, trust, and security. However, the mechanism in the Linux kernel for measuring integrity within a system, Integrity Measurement Architecture IMA, does not support Linux containers. This project leverages the kernel's existing support of eBPF to extend the Linux Integrity Measurement Architecture to containers without changes to the host operating system. \
 Project [repository](https://github.com/avery-blanchard/container-ima)
 
 ## Encrypted TAO

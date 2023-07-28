@@ -5,10 +5,6 @@ date = "2023-05-18"
 author = "Avery Blanchard"
 +++
 
-# Hi :)
-
-Welcome to my website!
-
 ## About me 
 I recently (May 2023) graduated from **Columbia University**!
 

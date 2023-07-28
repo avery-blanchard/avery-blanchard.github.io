@@ -15,7 +15,7 @@ Coursework: Operating Systems I and II, Privacy Preserving Systems, System on a 
 
 ## Research Experience
 **Container IMA using eBPF** ***advised by Professor Jason Nieh*** \
-Developed container integrity measurement project since Fall 2022. \
+Developed container integrity measurement project since Fall 2022. 
 
 **Creative Machines Lab** ***with Professor Hod Lipson*** \
 Design and implementation of software for a 3D printer since Fall 2021. 
@@ -23,7 +23,7 @@ Design and implementation of software for a 3D printer since Fall 2021.
 ## Industry Experience
 **IBM Research** \
 *Research Intern* \
-May 2023 - Present \
+May 2023 - Present 
 
 **Red Hat** \
 *Software Engineering Intern*  \

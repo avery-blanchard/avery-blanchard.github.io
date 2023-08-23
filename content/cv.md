@@ -7,24 +7,27 @@ redirect_from:
   - /resume/
 ---
 
-## Education 
+**Education**
+
 **Duke University, Durham, NC** \
-**Ph.D. in Computer Science** \
+*Ph.D. in Computer Science* \
 August 2023 - Present 
 
 **Columbia University, New York, NY** \
-**B.A. in Computer Science** \
+*B.A. in Computer Science* \
 September 2019 - May 2023 \
 Coursework: Operating Systems I and II, Privacy Preserving Systems, System on a Chip Design, Security I and II, Computer Systems
 
-## Research Experience
+**Research Experience**
+
 **Container IMA using eBPF** ***with Professor Jason Nieh*** \
 Developed container integrity measurement project Fall 2022 - Spring 2023. 
 
 **Creative Machines Lab** ***with Professor Hod Lipson*** \
 Design and implementation of software for a 3D printer Fall 2021 - Spring 2023. 
 
-## Industry Experience
+**Industry Experience**
+
 **IBM Research** \
 *Research Intern* \
 May 2023 - August 2023  
@@ -33,14 +36,16 @@ May 2023 - August 2023
 *Software Engineering Intern*  \
 May 2022 - April 2023
 
-## Volunteer Experience 
+**Volunteer Experience**
+
 **MIT Zero Robotics** \
 *June 2021 - August 2021*
 
 **Girls Who Code** \
 *August 2020 - August 2021*
 
-## Projects
+**Projects**
+
 **Container IMA using eBPF** (Fall 2022) \
 Extended the Linux Integrity Measurement Architecture to containers using eBPF
 
@@ -48,11 +53,9 @@ Extended the Linux Integrity Measurement Architecture to containers using eBPF
 Encrypted graph data storage through implementing Order Preserving Encryption in Rust 
 
 **Robotic Grasping System** (Spring 2022) \
-Utilized deep learning, semantic parsing, ICP and RRT algorithms to build a self-improving robotic grasping system in Python 
+Utilized deep learning, semantic parsing, ICP and RRT algorithms to build a self-improving robotic grasping system
 
-**Linux File System** (Spring 2022) \
-Implemented a file system that can be mounted on block devices in C
- 
-## Technical Skills
+**Technical Skills**
+
 Programming Languages: C, Rust, Python, C++, Go, Java \
 Tools: Git, Make, Linux Kernel Development, Linux, Kubernetes, Docker, Open Shift, eBPF

@@ -8,22 +8,26 @@ redirect_from:
 ---
 
 ## Education 
+**Duke University, Durham, NC** \
+**Ph.D. in Computer Science** \
+August 2023 - Present 
+
 **Columbia University, New York, NY** \
 **B.A. in Computer Science** \
 September 2019 - May 2023 \
 Coursework: Operating Systems I and II, Privacy Preserving Systems, System on a Chip Design, Security I and II, Computer Systems
 
 ## Research Experience
-**Container IMA using eBPF** ***advised by Professor Jason Nieh*** \
-Developed container integrity measurement project since Fall 2022. 
+**Container IMA using eBPF** ***with Professor Jason Nieh*** \
+Developed container integrity measurement project Fall 2022 - Spring 2023. 
 
 **Creative Machines Lab** ***with Professor Hod Lipson*** \
-Design and implementation of software for a 3D printer since Fall 2021. 
+Design and implementation of software for a 3D printer Fall 2021 - Spring 2023. 
 
 ## Industry Experience
 **IBM Research** \
 *Research Intern* \
-May 2023 - Present 
+May 2023 - August 2023  
 
 **Red Hat** \
 *Software Engineering Intern*  \
@@ -51,4 +55,4 @@ Implemented a file system that can be mounted on block devices in C
  
 ## Technical Skills
 Programming Languages: C, Rust, Python, C++, Go, Java \
-Tools: Git, Make, Linux Kernel Development, Linux, Kubernetes, Docker, Ansible, eBPF
+Tools: Git, Make, Linux Kernel Development, Linux, Kubernetes, Docker, Open Shift, eBPF

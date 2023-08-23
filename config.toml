@@ -21,8 +21,8 @@ palette = "tokyo-night-light"
 
 # Sidebar: about/bio
 [params.about]
-title = "Avery Blanchard"
-description = "Columbia CS"
+title = "avery"
+description = ""
 picture = "images/me.jpg"
 
 # Sidebar: social links

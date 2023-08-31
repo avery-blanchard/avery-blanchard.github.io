@@ -5,9 +5,7 @@ date = "2023-05-18"
 author = "Avery Blanchard"
 +++
 
-**$ whoami**
-
-Hi! 
+# About Me
 
 I am a 1st year Computer Science Ph.D. student at **Duke University**. In May of 2023, I graduated from **Columbia University**
 

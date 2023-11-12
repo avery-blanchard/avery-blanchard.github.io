@@ -39,7 +39,7 @@ May 2022 - April 2023
 **Presentations**
 
 Blanchard, A., Sturmann, L. (2023, March). Container IMA using eBPF [Conference Presentation]. Container Plumbing Days \
-Blanchard, A. (2022, November). Container IMA using eBPF [Guest Seminar]. IBM Thomas J. Watson Research Center \
+Blanchard, A. (2022, November). Container IMA using eBPF [Guest Seminar]. IBM Thomas J. Watson Research Center 
 
 **Volunteer Experience**
 

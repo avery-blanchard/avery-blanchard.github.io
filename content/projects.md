@@ -10,14 +10,10 @@ redirect_from:
 
 **Container IMA using eBPF advised by Professor Jason Nieh, Columbia University**
 
- The ability to measure and monitor the integrity of containers running on the system fills a gap in observability, trust, and security. However, the mechanism in the Linux kernel for measuring integrity within a system, Integrity Measurement Architecture IMA, does not support Linux containers. This project leverages the kernel's existing support of eBPF to extend the Linux Integrity Measurement Architecture to containers without changes to the host operating system. \
+The ability to measure and monitor the integrity of containers running on the system fills a gap in observability, trust, and security. However, the mechanism in the Linux kernel for measuring integrity within a system, Integrity Measurement Architecture IMA, does not support Linux containers. This project leverages the kernel's existing support of eBPF to extend the Linux Integrity Measurement Architecture to containers without changes to the host operating system. \
 Project [repository](https://github.com/avery-blanchard/container-ima)
 
 **Encrypted TAO, Columbia University COMSE6998**
 
 A privacy preserving graph data store. The project ported Order Preserving Encryption OPE to Rust to provide range queries over encrypted data. Queries were encrypted using OPE and symmetric encryption. \
 Project [repository](https://github.com/encrypted-tao/encrypted-tao)
-
-**Digital Cooking advised by Professor Hod Lipson, Columbia University's Creative Machines Lab**
-
-The goal of the Digital Cooking Team at the Creative Machines Lab is to design a 3D printer capable of fabricating edible items through the computer-guided deposition of ingredients. The design and implementation of this printer's software is in C++ and Python.

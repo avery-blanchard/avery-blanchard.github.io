@@ -21,10 +21,10 @@ Coursework: Operating Systems I and II, Privacy Preserving Systems, System on a 
 **Research Experience**
 
 **Container IMA using eBPF** ***with Professor Jason Nieh*** \
-Developed container integrity measurement project Fall 2022 - Spring 2023. 
+Developed container integrity measurement project Fall 2022 to Spring 2023. 
 
 **Creative Machines Lab** ***with Professor Hod Lipson*** \
-Design and implementation of software for a 3D printer Fall 2021 - Spring 2023. 
+Design and implementation of software for a 3D printer Fall 2021 to Spring 2023. 
 
 **Industry Experience**
 
@@ -35,6 +35,11 @@ May 2023 - August 2023
 **Red Hat** \
 *Software Engineering Intern*  \
 May 2022 - April 2023
+
+**Presentations**
+
+Blanchard, A., Sturmann, L. (2023, March). Container IMA using eBPF [Conference Presentation]. Container Plumbing Days \
+Blanchard, A. (2022, November). Container IMA using eBPF [Guest Seminar]. IBM Thomas J. Watson Research Center \
 
 **Volunteer Experience**
 

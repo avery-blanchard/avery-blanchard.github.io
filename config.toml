@@ -17,7 +17,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "papercolor-dark"
+palette = "tokyo-night-dark"
 
 # Sidebar: about/bio
 [params.about]

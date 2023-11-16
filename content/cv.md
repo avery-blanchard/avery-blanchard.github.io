@@ -37,9 +37,13 @@ May 2023 - August 2023
 May 2022 - April 2023
 
 **Presentations**
+
 Avery Blanchard, Gheorghe Almasi, James Bottomley, and Hubertus Franke (2023, November). In Containers We Trust? Building Trust in Containerized Environments [Conference Presentation]. Linux Plumbers Conference. 
+
 Avery Blanchard, Gheorghe Almasi, James Bottomley, and Hubertus Franke (2023, November). Extending Non-repudiable Logs with eBPF [Conference Presentation]. Linux Plumbers Conference. 
-Avery Blanchard and Lily Sturrman (2023, March). Container IMA using eBPF [Conference Presentation]. Container Plumbing Days \
+
+Avery Blanchard and Lily Sturmann (2023, March). Container IMA using eBPF [Conference Presentation]. Container Plumbing Days 
+
 Avery Blanchard (2022, November). Container IMA using eBPF [Guest Seminar]. IBM Thomas J. Watson Research Center 
 
 **Volunteer Experience**

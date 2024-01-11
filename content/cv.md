@@ -48,7 +48,7 @@ Avery Blanchard (2022, November). Container IMA using eBPF [Guest Seminar]. IBM 
 
 **Teaching**
 
-**Graduate Teaching Assistant**
+**Graduate Teaching Assistant** \
 Duke University, CS310 Introduction to Operating Systems
 
 **Volunteer Experience**

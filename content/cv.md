@@ -46,6 +46,11 @@ Avery Blanchard and Lily Sturmann (2023, March). Container IMA using eBPF [Confe
 
 Avery Blanchard (2022, November). Container IMA using eBPF [Guest Seminar]. IBM Thomas J. Watson Research Center 
 
+**Teaching**
+
+**Graduate Teaching Assistant**
+Duke University, CS310 Introduction to Operating Systems
+
 **Volunteer Experience**
 
 **MIT Zero Robotics** \

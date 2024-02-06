@@ -29,7 +29,7 @@ Design and implementation of software for a 3D printer Fall 2021 to Spring 2023.
 **Industry Experience**
 
 **IBM Research** \
-*Research Intern* \
+*Research Intern supervised by Dr. Gheorghe Almasi and Dr. Hubertus Franke* \
 May 2023 - August 2023  
 
 **Red Hat** \

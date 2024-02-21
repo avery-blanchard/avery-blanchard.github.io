@@ -1,7 +1,7 @@
 baseURL = 'http://avery-blanchard.github.io/'
 languageCode = 'en-us'
 theme = "risotto"
-title = "Avery Blanchard"
+title = "avery"
 author = "Avery Blanchard"
 paginate = 3
 DefaultContentLanguage = "en"

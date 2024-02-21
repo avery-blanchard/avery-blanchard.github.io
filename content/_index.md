@@ -13,6 +13,3 @@ During my undergraduate degree at **Columbia University**, I had the privilege o
 
 Additionally, I had the opportunity to work [Professor Hod Lipson](https://www.hodlipson.com/) in the Creative Machines Lab to design and build software for a 3D food printer.
 
-# Experience
-
-# Presentations
